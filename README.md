@@ -1,5 +1,3 @@
-# data-quality-lineage-platform
-
 # Data Quality & Lineage Platform
 
 **When a data check fails, instantly see what broke, why, and which dashboards are affected.**
